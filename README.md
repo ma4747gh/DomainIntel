@@ -32,8 +32,6 @@ This Python script provides a GUI tool to gather WHOIS, DNS, and SSL/TLS informa
 python domain_intel.py
 ```
 
-For issues or feature requests, please open an issue [here](https://github.com/yourusername/your-repository/issues).
-
 ## Troubleshooting
 
 If you encounter any issues, ensure:
